@@ -1,0 +1,11 @@
+---
+title: "exercise-2b"
+format: html
+date: 1/28/26
+---
+#This is my document for exercise-2b
+
+```{r}
+x <- 1
+print(x)
+```
